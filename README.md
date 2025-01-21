@@ -1,0 +1,1 @@
+Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:
